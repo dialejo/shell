@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "/tmp/correction/3029581276225355160393125626734594479688_5/2019/5205/basics"
+echo $PATH
