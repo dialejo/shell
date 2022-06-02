@@ -1,2 +1,3 @@
 !/bin/bash
-#root@3ce2eef16505:~/shell# /root/shell/0-current_working_directory
+# Current working directory
+echo "/root/shell/0-current_working_directory"
