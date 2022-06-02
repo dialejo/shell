@@ -1,0 +1,3 @@
+!/bin/bash
+# Current working directory
+echo "/root/shell/0-current_working_directory"
