@@ -1,3 +1,2 @@
 #!/bin/bash
-# current line
-ls -na
+echo "$(ls -na)"
