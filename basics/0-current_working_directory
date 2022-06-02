@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "/root/shell/basics"
+echo "/root/shell/basics/0-current_working_directory"
