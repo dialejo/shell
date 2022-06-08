@@ -1,1 +1,1 @@
-shell redirections
+Shell, init files, variables and expansions
