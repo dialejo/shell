@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 #while condition
-cont=1
-while [ $cont -le 10 ];
+i=0
+while  (( i < 10 ));
 do
     echo "Best School"
-    let expr  cont=cont+1
+    (( i++ ));
 done
