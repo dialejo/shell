@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#while conditional
+$#while conditional
 
 cont=1
 while [ $cont -le 10 ];
