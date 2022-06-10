@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# while conditional
+
+$cont=1
+while [ $cont -le 10 ];
+do
+    echo "Holberton School"
+    let cont=cont+1
+done
