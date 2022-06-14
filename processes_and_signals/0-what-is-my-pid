@@ -1,5 +1,4 @@
-
 #!/usr/bin/env bash
-# Script to display PID
+#Script to display PID
 
 echo $$
